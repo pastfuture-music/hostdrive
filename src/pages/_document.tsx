@@ -6,7 +6,10 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <meta name="description" content="OneDrive Vercel Index" />
+          <meta name="description" content="The Official Site of Music Compositions and Arrangements by PastFuture." />
+          <meta name="keywords" content="PastFuture, pastfuture, kyle, music, compositions, ykh"/>
+          <meta name="copyright" content="Copyright © 2022 PastFuture Music & Seaweed Melodies. All rights reserved." />
+          <meta name="author" content="Yu-Kai, Huang" />
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
